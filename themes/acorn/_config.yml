@@ -1,0 +1,55 @@
+# Header
+menu:
+  首頁: /
+  關於我們: /about
+  合作流程: /workflow
+  文章: /archives
+
+
+# Content
+excerpt_link: 閱讀完整文章
+
+# MIIT ICP/IP/DOMAIN
+beian: 
+  enable: false
+  number: 
+  url: https://beian.miit.gov.cn/
+
+# Miscellaneous
+favicon: /images/favicon.ico
+webclip: /images/webclip
+brand:   /images/brand.svg
+
+# Jumbotron video & Hero image & Swiper
+## Jumbotron video
+video: 
+  overlay: false
+  path: /images/movie/
+## Hero image
+hero: 
+  image: /images/banner/banner.jpg
+## Swiper
+## https://github.com/nolimits4web/swiper
+swiper: 
+  enable: false
+
+# Toc
+## https://github.com/tscanlin/tocbot
+toc: true
+
+# Slogan
+slogan: 
+  primary: 小周軟體工作室
+  secondary: 資訊服務的好伙伴，我們專門開發客製化系統開發
+  archives: 文章
+  pages: 
+  posts: 实践见真知既是最好的解释
+
+# Library
+libs:
+  feather: /libs/feather/feather.min.js # V4.29.0
+  lazysizes: /libs/lazysizes/lazysizes.min.js
+  tocbot: /libs/tocbot/tocbot.min.js
+  swiper: 
+    css: /libs/swiper/swiper-bundle.min.css
+    js:  /libs/swiper/swiper-bundle.min.js
