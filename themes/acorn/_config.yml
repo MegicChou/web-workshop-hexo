@@ -2,8 +2,10 @@
 menu:
   首頁: /
   關於我們: /about
+  購物車網站建置: /build-ecshop
   合作流程: /workflow
-  文章: /archives
+#  文章: /archives
+  聯絡我們: /contact-us
 
 
 # Content
